@@ -1,5 +1,5 @@
 // @flow
-import type { ViewProps } from "react-native/Libraries/Components/View/ViewPropTypes";
+import type { ViewProps } from "react-native";
 
 export type SafeAreaViewForceInsetValue = "always" | "never";
 
